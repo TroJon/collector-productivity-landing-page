@@ -285,6 +285,14 @@ details {
   font-weight: 900;
 }
 
+.card-note {
+  margin: 1rem 0 0;
+  padding-top: 1rem;
+  color: var(--slate);
+  border-top: 1px solid var(--line);
+  font-size: 0.95rem;
+}
+
 .trust-strip {
   background: var(--navy);
 }
